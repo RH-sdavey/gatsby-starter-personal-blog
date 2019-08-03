@@ -1,5 +1,5 @@
 ---
-title: About Sean Title
+title: About Sean
 ---
 
 
