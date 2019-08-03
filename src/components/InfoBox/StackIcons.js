@@ -28,7 +28,8 @@ const styles = theme => ({
   box: {
     display: "flex",
     justifyContent: "left",
-    flexWrap: "wrap"
+    flexWrap: "wrap",
+    margin: "2em",
   },
   link: {
     display: "inline-block",
