@@ -13,7 +13,7 @@ import GmailIcon from "!svg-react-loader!../../images/svg-icons/gmail.svg?name=G
 const styles = theme => ({
   social: {
     display: "flex",
-    justifyContent: "center",
+    justifyContent: "left",
     flexWrap: "wrap"
   },
   link: {
