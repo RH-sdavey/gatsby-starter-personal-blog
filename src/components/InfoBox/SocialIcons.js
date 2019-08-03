@@ -14,7 +14,7 @@ const styles = theme => ({
   social: {
     display: "flex",
     justifyContent: "left",
-    flexWrap: "wrap"
+    flexWrap: "wrap",
     margin: "2em",
   },
   link: {
@@ -29,7 +29,6 @@ const styles = theme => ({
   svg: {
     width: "40px",
     height: "40px",
-
     fill: theme.info.colors.socialIcons,
     transition: "all .5s"
   }
