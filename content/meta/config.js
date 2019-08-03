@@ -26,5 +26,6 @@ module.exports = {
   // social
   authorSocialLinks: [
     { name: "github", url: "https://github.com/RH-sdavey/sean-might-help-you2" },
+    { name: "slack", url: "https://sean-will-help-you.slack.com/" },
   ]
 };
