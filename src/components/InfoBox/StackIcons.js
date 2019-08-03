@@ -36,15 +36,15 @@ const styles = theme => ({
     padding: "8px"
   },
   svg: {
-    width: "22px",
-    height: "22px"
+    width: "16px",
+    height: "16px"
   },
   header: {
     textAlign: "left",
     fontSize: ".85em",
     letterSpacing: ".3em",
     width: "100%",
-    margin: "2.5em 0 .4em 3em",
+    margin: "0.5em 0 .4em 3em",
     fontWeight: 300
   }
 });
