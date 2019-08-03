@@ -29,7 +29,7 @@ const styles = theme => ({
     display: "flex",
     justifyContent: "left",
     flexWrap: "wrap",
-    margin: "2em",
+    margin: "2.5em",
   },
   link: {
     display: "inline-block",
@@ -44,7 +44,7 @@ const styles = theme => ({
     fontSize: ".85em",
     letterSpacing: ".3em",
     width: "100%",
-    margin: "2em 0 .4em 3em",
+    margin: "2.5em 0 .4em 3em",
     fontWeight: 300
   }
 });

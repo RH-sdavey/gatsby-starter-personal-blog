@@ -5,8 +5,6 @@ import injectSheet from "react-jss";
 import config from "../../../content/meta/config";
 
 import GithubIcon from "!svg-react-loader!../../images/svg-icons/github.svg?name=GithubIcon";
-import FacebookIcon from "!svg-react-loader!../../images/svg-icons/facebook.svg?name=FacebookIcon";
-import TwitterIcon from "!svg-react-loader!../../images/svg-icons/twitter.svg?name=TwitterIcon";
 import SlackIcon from "!svg-react-loader!../../images/svg-icons/slack.svg?name=SlackIcon";
 import GmailIcon from "!svg-react-loader!../../images/svg-icons/gmail.svg?name=GmailIcon";
 
@@ -15,7 +13,7 @@ const styles = theme => ({
     display: "flex",
     justifyContent: "left",
     flexWrap: "wrap",
-    margin: "2em",
+    margin: "0 2em 0 2em",
   },
   link: {
     display: "inline-block",
@@ -38,8 +36,6 @@ const Socialcons = props => {
   const { classes } = props;
   const items = config.authorSocialLinks;
   const icons = {
-    twitter: TwitterIcon,
-    facebook: FacebookIcon,
     github: GithubIcon,
     slack: SlackIcon,
     gmail: GmailIcon
