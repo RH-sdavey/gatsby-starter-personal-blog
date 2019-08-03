@@ -8,6 +8,8 @@ import GithubIcon from "!svg-react-loader!../../images/svg-icons/github.svg?name
 import FacebookIcon from "!svg-react-loader!../../images/svg-icons/facebook.svg?name=FacebookIcon";
 import TwitterIcon from "!svg-react-loader!../../images/svg-icons/twitter.svg?name=TwitterIcon";
 import SlackIcon from "!svg-react-loader!../../images/svg-icons/slack.svg?name=SlackIcon";
+import GmailIcon from "!svg-react-loader!../../images/svg-icons/gmail.svg?name=GmailIcon";
+
 const styles = theme => ({
   social: {
     display: "flex",
@@ -39,6 +41,7 @@ const Socialcons = props => {
     facebook: FacebookIcon,
     github: GithubIcon,
     slack: SlackIcon
+    gmail: GmailIcon
   };
 
   return (

@@ -3,7 +3,7 @@ title: Other GatsbyJs starters
 menuTitle: My starters
 ---
 
-[test](./test.md) is a test starter.
+[test](./test) is a test starter.
 
 ![SimpleLanding](./gatsby-starter-simple-landing.png)
 
