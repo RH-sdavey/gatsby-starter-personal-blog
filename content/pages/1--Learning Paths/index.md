@@ -3,7 +3,7 @@ title: OUR LEARNING PATHS
 menuTitle: Learning Paths
 ---
 
-[Sysadmin](../sysadmin) is a link to the syadmin page.
+[Sysadmin](../SysadminPages/sysadmin) is a link to the syadmin page.
 
 [Developer](../developer) is a link to the developer page.
 
