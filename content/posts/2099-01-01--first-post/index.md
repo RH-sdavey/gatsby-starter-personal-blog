@@ -29,7 +29,7 @@ Nice! , you can contact us in any of the following ways
 + Send us an email to [here](mailto:seanwillhelpyou@gmail.com)
 + Create an issue [here](https://github.com/RH-sdavey/sean-will-help-you/issues/new/choose)
 + Come chat with us on Slack [here](https://app.slack.com/client/TLMMVFQ1X/CLVTNC1MM)
-+ Use the contact form [here](../../src/pages/contact)
++ Use the contact form [here](/contact)
 
 
 ### I want to contribute to the site
