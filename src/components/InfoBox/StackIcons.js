@@ -44,7 +44,7 @@ const styles = theme => ({
     fontSize: ".85em",
     letterSpacing: ".3em",
     width: "100%",
-    margin: "2em 0 .8em 0",
+    margin: "2em 0 .4em 2em",
     fontWeight: 300
   }
 });
