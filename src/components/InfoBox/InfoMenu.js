@@ -9,8 +9,8 @@ const styles = theme => ({
     flexDirection: "column",
     alignItems: "left",
     listStyle: "none",
-    margin: 0,
-    margin-top: 1em,
+    margin: 1em,
+
     width: "100%"
   },
   link: {
