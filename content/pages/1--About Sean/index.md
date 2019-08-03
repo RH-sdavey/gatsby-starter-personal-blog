@@ -19,7 +19,7 @@ Find out more about us below
 * Now I'm a Java Developer
 * Previously a Network Admin, Quality Engineer, and SysAdmin
 * I'm certified in various technologies (RHCSA, Docker, Ansible, ITIL)
-* Interested in basically I.T areas such as,
+* Interested in basically all I.T areas such as,
 * Development, Software Testing, Ethical Hacking, System Admin.
 * Devops, Analytics, Website Development, Databases
 * Automation, Python, Java, Javascript, Bash,
