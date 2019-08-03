@@ -6,7 +6,7 @@ Sean is actually two guys ... both called Sean, and we want to help you change y
 
 Choose to follow our learning paths below,
 
-or search through the tutorials using the icons on the right.
+or search through the tutorials using the icons on the top right.
 
 Feel free to contact us anytime.
 

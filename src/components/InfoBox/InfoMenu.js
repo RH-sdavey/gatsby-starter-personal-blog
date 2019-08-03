@@ -7,9 +7,9 @@ const styles = theme => ({
   infoMenu: {
     display: "flex",
     flexDirection: "column",
-    alignItems: "left",
+    alignItems: "center",
     listStyle: "none",
-    margin: "1em",
+    margin: "2em",
 
     width: "100%"
   },
