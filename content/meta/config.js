@@ -25,7 +25,7 @@ module.exports = {
   contactEmail: "seanwillhelpyou@gmail.com",
   // social
   authorSocialLinks: [
-    { name: "github", url: "https://github.com/RH-sdavey/sean-might-help-you2" },
+    { name: "github", url: "https://github.com/RH-sdavey/sean-will-help-you" },
     { name: "slack", url: "https://sean-will-help-you.slack.com/" },
     { name: "gmail", url: "mailto:seanwillhelpyou@gmail.com" },
 
