@@ -15,7 +15,7 @@ const styles = theme => ({
   link: {
     padding: ".5em",
     fontWeight: 300,
-    
+
     color: theme.info.colors.menuLink,
     "&:hover": {
       color: theme.info.colors.menuLinkHover
@@ -45,6 +45,7 @@ const InfoMenu = props => {
       <Link to="/contact/" onClick={linkOnClick} className={classes.link} data-shape="closed">
         Contact
       </Link>
+      <hr></hr>
     </nav>
   );
 };
