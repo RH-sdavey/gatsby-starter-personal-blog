@@ -27,7 +27,7 @@ const styles = theme => ({
   },
   box: {
     display: "flex",
-    justifyContent: "center",
+    justifyContent: "left",
     flexWrap: "wrap"
   },
   link: {
@@ -39,7 +39,7 @@ const styles = theme => ({
     height: "22px"
   },
   header: {
-    textAlign: "center",
+    textAlign: "left",
     fontSize: ".85em",
     letterSpacing: ".3em",
     width: "100%",
