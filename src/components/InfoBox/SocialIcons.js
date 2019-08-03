@@ -40,7 +40,7 @@ const Socialcons = props => {
     twitter: TwitterIcon,
     facebook: FacebookIcon,
     github: GithubIcon,
-    slack: SlackIcon
+    slack: SlackIcon,
     gmail: GmailIcon
   };
 
