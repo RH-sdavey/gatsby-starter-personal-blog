@@ -1,9 +1,9 @@
 ---
 title: Other GatsbyJs starters
-menuTitle: My starters
+menuTitle: Learning Paths
 ---
 
-[test](./test) is a test starter.
+[test](./sysadmin) is a test starter.
 
 ![SimpleLanding](./gatsby-starter-simple-landing.png)
 
