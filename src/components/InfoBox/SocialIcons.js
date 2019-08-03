@@ -61,7 +61,7 @@ const Socialcons = props => {
           </a>
         );
       })}
-    <hr>
+    <hr></hr>
     </div>
   );
 };
