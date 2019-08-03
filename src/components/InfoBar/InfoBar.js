@@ -46,13 +46,13 @@ const styles = theme => ({
   avatarLink: {
     display: "block",
     float: "left",
-    margin: "13px 0 0 30px"
+    margin: "13px 0 0 10px"
   },
   avatar: {
-    width: "36px",
+    width: "50px",
     borderRadius: "65% 75%",
     border: "1px solid #ddd",
-    height: "36px"
+    height: "50px"
   }
 });
 
