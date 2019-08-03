@@ -2,4 +2,4 @@
 title: info
 ---
 
-I am a front-end web developer. I used to be a web designer too, but now I concentrate on the code.
+Sean is actually two guys ... both called Sean, and we want to help you change your career to work in IT, for **free, always**
