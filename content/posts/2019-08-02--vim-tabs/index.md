@@ -61,7 +61,7 @@ So, lets do a quick walkthrough of the most commonly used ones,
 - `:tabNext` and `:tabnext` will take you to the next tab
 - `:tabprevious` will you take you to the previous tab
 -  `:tabs` will show you a list of all open tabs
--  `tabclose!` will close the current tab
+-  `:tabclose!` will close the current tab
 
 > ![tip](./tip.png)
 > -  you can also use `g` `t` in escape mode instead of typing `:tabnext`
