@@ -41,6 +41,8 @@ and we can see now there are two tabs open in VIM...
 
 ![tabs](./tabs.png)
 
+I will open a few more tabs just for fun,
+
 you can repeat this as many times as you like, open all the files!
 
 
