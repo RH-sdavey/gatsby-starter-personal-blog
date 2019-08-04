@@ -1,7 +1,7 @@
 ---
 title: How to work with tabs in VIM
 subTitle: Work with multiple files in one VIM session
-tags:
+category:
   - VIM
   - sean
 cover: vim.jpg
