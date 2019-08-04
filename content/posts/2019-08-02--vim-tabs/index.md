@@ -1,7 +1,9 @@
 ---
 title: How to work with tabs in VIM
 subTitle: Work with multiple files in one VIM session
-categories: ["vim", "sean"]
+categories:
+  - VIM
+  - sean
 cover: vim.jpg
 ---
 
