@@ -1,7 +1,7 @@
 ---
 title: How to work with tabs in VIM
 subTitle: Work with multiple files in one VIM session
-cover: photo-1507915600431-5292809c5ab7-cover.jpg
+cover: vim.jpg
 ---
 
 This tutorial will show you how to work with multiple tabs open within one VIM session. If you're not so sure with VIM just yet, then go check out our VIM tutorial on the
@@ -35,7 +35,7 @@ enter escape mode, by pressing `ESC`, then enter the following instruction to VI
 
 for example, I will open a document called SeanTest.doc like this,
 
-`:tabedit ./Documents/SeanTest.doc`
+`:tabedit ./Downloads/SeanTest.doc`
 
 and we can see now there are two tabs open in VIM...
 
