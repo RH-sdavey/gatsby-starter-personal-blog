@@ -6,9 +6,9 @@ cover: vim.jpg
 ---
 
 This tutorial will show you how to work with multiple tabs open within one VIM session. If you're not so sure with VIM just yet, then go check out our VIM tutorial on the
-sysadmin learning path here (TODO create sysadmin learning path/VIM)
+Sysadmin learning path here (TODO create sysadmin learning path/VIM)
 
-As a sysadmin or developer you will need to work with VIM very often, its a text editor at its core, but capable of so much more. On this site, you will find many VIM tutorials as we believe its one of critical tools you will need to master Linux from the beginning. (Yes we know about Emacs, but don't care about it, get over it) So lets get to it ...
+As a Sysadmin or Developer you will need to work with VIM very often, its a text editor at its core, but capable of so much more. On this site, you will find many VIM tutorials as we believe its one of critical tools you will need to master Linux from the beginning. (Yes we know about Emacs, but don't care about it, get over it) So lets get to it ...
 
 The only things its necessary to understand for now is that VIM has multiple "modes" it can operate it. For the purposes of this tutorial there are two modes we care about,
 
@@ -42,7 +42,7 @@ and we can see now there are two tabs open in VIM...
 
 ![tabs](./tabs.png)
 
-I will open a few more tabs just for fun,
+I opened a few more tabs just for fun,
 
 you can repeat this as many times as you like, open all the files!
 
