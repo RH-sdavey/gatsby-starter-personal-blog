@@ -20,7 +20,9 @@ So remember ... `ESC` and `i`, and keep in mind, when you see any examples below
 
 First of all open any existing file on your system in VIM, we will use `/etc/hosts` as an example here
 
-`vim /etc/hosts` ---> vim is open, and displaying /etc/hosts file
+`vim /etc/hosts`
+
+VIM is open, and displaying the /etc/hosts file
 
 ![hosts](./hosts.jpg)
 
