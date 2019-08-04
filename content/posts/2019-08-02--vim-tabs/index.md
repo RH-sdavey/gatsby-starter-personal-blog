@@ -66,3 +66,7 @@ So, lets do a quick walkthrough of the most commonly used ones,
 > ![tip](./tip.png)
 > -  you can also use `g` `t` in escape mode instead of typing `:tabnext`
 > - and `g` `T` instead of `:tabprevious`
+
+That's how to work with multiple tabs in VIM, if you have any questions or comments, please feel free to leave them below.
+
+Until next time, **Peace!**
